@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# JetBrains IDE
+.idea/
+
+# Scratch folder for raw QGIS/qgis2web exports before they're merged in
+# (see IMPORT.md) — never commit a full export wholesale.
+qgis-export/
